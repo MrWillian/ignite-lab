@@ -97,6 +97,15 @@ $ npm run test:cov
 ```
 
 
+<!-- CONTACT -->
+## Contact
+
+Willian Marciel - [@linkedin_handle][linkedin-url] - williansoares.dev@gmail.com
+
+Project Link: [https://github.com/MrWillian/ignite-lab](https://github.com/MrWillian/ignite-lab)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
