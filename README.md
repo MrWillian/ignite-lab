@@ -1,3 +1,43 @@
+<a name="readme-top"></a>
+
+[![MIT License][license-shield]][https://choosealicense.com/licenses/mit/]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/willian-marciel]
+
+
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/MrWillian/ignite-lab">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">Notifications Service</h3>
+
+  <p align="center">
+    A microservice to store and mantain notifications created with NestJS (NodeJS) on Ignite Lab from Rocketseat.
+    <br />
+    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://www.rocketseat.com.br">Rocketseat</a>
+    ·
+    <a href="https://lp.rocketseat.com.br/ignite?utm_source=site_rocketseat&utm_medium=modal&utm_campaign=offer-ignite-lab-04&utm_term=organic&utm_content=assine-agora&_gl=1*o557mo*_ga*MzA1ODgxNDA4LjE2NjI5MzQxOTg.*_ga_74RKNGM8RL*MTY3MTE0NjQwNS4yLjAuMTY3MTE0NjQwNS42MC4wLjA.">Ignite</a>
+    ·
+    <a href="https://github.com/MrWillian/ignite-lab/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/MrWillian/ignite-lab/issues">Request Feature</a>
+  </p>
+</div>
+
+
+
+### Built With
+
+* [![NodeJS][Node.js]][https://nodejs.org/en/]
+* [![NestJS][Nest.js]][https://nestjs.com/]
+* [![TypeScript][TypeScript]][https://www.typescriptlang.org/]
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -57,17 +97,3 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
