@@ -7,14 +7,15 @@ export interface NotificationProps {
     content: Content;
     categories: string;
     readAt?: Date | null;
+    canceledAt?: Date | null;
     createdAt: Date;
 }
 
 export class Notification extends BaseEntity {
     private props: NotificationProps;
 
-    constructor(props: Replace<NotificationProps, { createdAt?: Date}>) {
-        super();
+    constructor(props: Replace<NotificationProps, { createdAt?: Date }>, id?: string) {
+        super(id);
         this.props = {
             ...props,
             createdAt: props.createdAt ?? new Date(),
@@ -45,12 +46,24 @@ export class Notification extends BaseEntity {
         return this.props.categories;
     }
 
-    public set readAt(readAt: Date | null | undefined) {
-        this.props.readAt = readAt;
+    public read() {
+        this.props.readAt = new Date();
     }
 
+    public unread() {
+        this.props.readAt = null;
+    }
+    
     public get readAt(): Date | null | undefined {
         return this.props.readAt;
+    }
+
+    public cancel() {
+        this.props.canceledAt = new Date();
+    }
+
+    public get canceledAt(): Date | null | undefined {
+        return this.props.canceledAt;
     }
 
     public get createdAt(): Date {
