@@ -100,7 +100,7 @@ $ npm run test:cov
 <!-- CONTACT -->
 ## Contact
 
-Willian Marciel - [@linkedin_handle][linkedin-url] - williansoares.dev@gmail.com
+Willian Marciel - [@linkedin][linkedin-url] - williansoares.dev@gmail.com
 
 Project Link: [https://github.com/MrWillian/ignite-lab](https://github.com/MrWillian/ignite-lab)
 
