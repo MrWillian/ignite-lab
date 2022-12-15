@@ -36,7 +36,7 @@
 
 * [![NodeJS][Node.js]][Node-url]
 * [![NestJS][Nest.js]][Nest-url]
-* [![TypeScript][TypeScript]][https://www.typescriptlang.org/]
+* [![TypeScript][TypeScript]][TypeScript-url]
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
@@ -114,5 +114,6 @@ $ npm run test:cov
 [Node-url]: https://nodejs.org/en/
 [Nest.js]: https://img.shields.io/badge/Nestjs-20232A?style=for-the-badge&logo=nestjs&logoColor=61DAFB
 [Nest-url]: https://nestjs.com/
-
+[TypeScript]: https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white
+[TypeScript-url]: [https://nestjs.com/](https://www.typescriptlang.org/)
 
