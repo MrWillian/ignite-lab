@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
-[![MIT License][license-shield]][https://choosealicense.com/licenses/mit/]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/willian-marciel]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
