@@ -9,15 +9,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/MrWillian/ignite-lab">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://w7.pngwing.com/pngs/1007/210/png-transparent-bell-notification-one-notification-twitter-twitter-ui-colored-icon.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Notifications Service</h3>
 
   <p align="center">
     A microservice to store and mantain notifications created with NestJS (NodeJS) on Ignite Lab from Rocketseat.
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://www.rocketseat.com.br">Rocketseat</a>
