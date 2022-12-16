@@ -35,6 +35,8 @@
 * [![NodeJS][Node.js]][Node-url]
 * [![NestJS][Nest.js]][Nest-url]
 * [![TypeScript][TypeScript]][TypeScript-url]
+* [![Prisma][Prisma]][Prisma-url]
+* [![SQLite][SQLite]][SQLite-url]
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
@@ -102,6 +104,8 @@ $ npm run test:cov
 
 Willian Marciel - [@linkedin][linkedin-url] - williansoares.dev@gmail.com
 
+Portfolio: [http://willianmarciel.vercel.app/](http://willianmarciel.vercel.app/)
+
 Project Link: [https://github.com/MrWillian/ignite-lab](https://github.com/MrWillian/ignite-lab)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -122,5 +126,11 @@ Project Link: [https://github.com/MrWillian/ignite-lab](https://github.com/MrWil
 [Nest.js]: https://img.shields.io/badge/Nestjs-20232A?style=for-the-badge&logo=nestjs&logoColor=61DAFB
 [Nest-url]: https://nestjs.com/
 [TypeScript]: https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white
-[TypeScript-url]: [https://nestjs.com/](https://www.typescriptlang.org/)
+[TypeScript-url]: https://www.typescriptlang.org/
+[Prisma]: https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma&logoColor=61DAFB
+[Prisma-url]: https://www.prisma.io/
+[SQLite]: https://img.shields.io/badge/SQLite-20232A?style=for-the-badge&logo=sqlite&logoColor=61DAFB
+[SQLite-url]: https://www.sqlite.org/index.html
+
+
 
