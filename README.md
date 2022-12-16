@@ -129,8 +129,5 @@ Project Link: [https://github.com/MrWillian/ignite-lab](https://github.com/MrWil
 [TypeScript-url]: https://www.typescriptlang.org/
 [Prisma]: https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma&logoColor=61DAFB
 [Prisma-url]: https://www.prisma.io/
-[SQLite]: https://img.shields.io/badge/SQLite-20232A?style=for-the-badge&logo=sqlite&logoColor=61DAFB
+[SQLite]: https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white
 [SQLite-url]: https://www.sqlite.org/index.html
-
-
-
